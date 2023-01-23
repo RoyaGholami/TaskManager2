@@ -1,0 +1,40 @@
+___________________________________________________________________________________
+User count:   4
+Total tasks:  4
+
+
+--------------------------------------------------------
+admin :
+	Total user tasks:        2
+	User task percent:       50.0%
+	User completed percent:  0.0%
+	User incomplete percent: 100.0%
+	User overdue percent:    50.0%
+
+
+--------------------------------------------------------
+roya :
+	Total user tasks:        2
+	User task percent:       50.0%
+	User completed percent:  50.0%
+	User incomplete percent: 50.0%
+	User overdue percent:    0.0%
+
+
+--------------------------------------------------------
+fred :
+	Total user tasks:        0
+	User task percent:       0%
+	User completed percent:  0%
+	User incomplete percent: 0%
+	User overdue percent:    0%
+
+
+--------------------------------------------------------
+sarah :
+	Total user tasks:        0
+	User task percent:       0%
+	User completed percent:  0%
+	User incomplete percent: 0%
+	User overdue percent:    0%
+___________________________________________________________________________________
